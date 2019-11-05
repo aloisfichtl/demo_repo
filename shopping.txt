@@ -20,4 +20,4 @@ flour
 butter
 coffee
 tomatos
-pears
+4 pears
